@@ -26,7 +26,7 @@ public class CargarUsuario extends HttpServlet {
      */
     public CargarUsuario() {
         super();
-        // TODO Auto-generated constructor stub
+        
     }
 
 	/**
