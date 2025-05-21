@@ -154,7 +154,7 @@ body {
 				<div class="col-md-6">
 					<div class="card">
 						<img class="card-img-top"
-							src="https://grupo1844.com/wp-content/uploads/2022/09/slider-transporte-cenas-empresa.jpg"
+							src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp4yxakYU-IV_n46bW2frYicv1j9uens1puQ&s"
 							alt="Imagen de ejemplo">
 						<div class="card-overlay">
 							<div class="row">

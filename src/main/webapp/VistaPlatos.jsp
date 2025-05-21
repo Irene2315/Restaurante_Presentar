@@ -30,8 +30,7 @@
 }
 
 body {
-	background-image:
-		url('https://foodandtravel.mx/wp-content/uploads/2023/04/Comida-popular-Por.jpg');
+	background-image: url('https://tiendaabrasadorencasa.com/cdn/shop/articles/14.png?v=1704977321');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
